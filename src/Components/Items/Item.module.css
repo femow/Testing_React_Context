@@ -1,0 +1,16 @@
+.item_card {
+    justify-content: space-between;
+    align-items: center;
+}
+
+.item_card h3, p {
+    margin: 0;
+}
+
+.item_card p {
+    font-style: italic;
+}
+
+.item_card_price {
+    color: rgb(126, 168, 41);
+}

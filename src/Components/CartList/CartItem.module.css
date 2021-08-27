@@ -1,0 +1,29 @@
+.item_card {
+    justify-content: space-between;
+    align-items: center;
+}
+
+.item_card h3, h4 {
+    margin: 0;
+}
+
+.item_card_price {
+    color: rgb(126, 168, 41);
+}
+
+.item_cart_display {
+    display: flex;
+    justify-content: space-between;
+}
+.item_cart_display button {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-left: 0.5rem;
+}
+
+.item_cart_amount {
+    border-radius: 0.5rem;
+    margin-left: 1rem;
+    padding: 0 0.5rem;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+}
